@@ -1,0 +1,27 @@
+{
+  "name": "tap-vscode-launch-config",
+  "version": "1.0.0",
+  "description": "Testing VSCode launch config with project which uses node-tap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trivikr/node-tap-vscode-launch-config.git"
+  },
+  "keywords": [
+    "node",
+    "tap",
+    "node-tap",
+    "vscode",
+    "launch",
+    "config"
+  ],
+  "author": "Kamat, Trivikram",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trivikr/node-tap-vscode-launch-config/issues"
+  },
+  "homepage": "https://github.com/trivikr/node-tap-vscode-launch-config#readme"
+}
