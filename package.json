@@ -2,7 +2,7 @@
   "name": "tap-vscode-launch-config",
   "version": "1.0.0",
   "description": "Testing VSCode launch config with project which uses node-tap",
-  "main": "index.js",
+  "main": "src/sum.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
